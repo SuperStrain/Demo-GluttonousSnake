@@ -1,0 +1,8 @@
+﻿  food.cpp
+  game.cpp
+  snake.cpp
+  wall.cpp
+  snake.h
+  正在生成代码...
+Debug\snake.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  贪吃蛇.vcxproj -> C:\我的\C\贪吃蛇\Debug\贪吃蛇.exe
